@@ -1,0 +1,18 @@
+c:\users\natel\documents\visual studio 2015\Projects\GUIBank\GUIBank\bin\Debug\GUIBank.exe.config
+C:\Users\natel\documents\visual studio 2015\Projects\GUIBank\GUIBank\bin\Debug\GUIBank.exe
+C:\Users\natel\documents\visual studio 2015\Projects\GUIBank\GUIBank\bin\Debug\GUIBank.pdb
+C:\Users\natel\documents\visual studio 2015\Projects\GUIBank\GUIBank\obj\Debug\GUIBank.csprojResolveAssemblyReference.cache
+C:\Users\natel\documents\visual studio 2015\Projects\GUIBank\GUIBank\obj\Debug\GUIBank.Form1.resources
+C:\Users\natel\documents\visual studio 2015\Projects\GUIBank\GUIBank\obj\Debug\GUIBank.Properties.Resources.resources
+C:\Users\natel\documents\visual studio 2015\Projects\GUIBank\GUIBank\obj\Debug\GUIBank.csproj.GenerateResource.Cache
+C:\Users\natel\documents\visual studio 2015\Projects\GUIBank\GUIBank\obj\Debug\GUIBank.exe
+C:\Users\natel\documents\visual studio 2015\Projects\GUIBank\GUIBank\obj\Debug\GUIBank.pdb
+C:\Users\natel\Desktop\projects\(C#) GUIBank\GUIBank\bin\Debug\GUIBank.exe.config
+C:\Users\natel\Desktop\projects\(C#) GUIBank\GUIBank\bin\Debug\GUIBank.exe
+C:\Users\natel\Desktop\projects\(C#) GUIBank\GUIBank\bin\Debug\GUIBank.pdb
+C:\Users\natel\Desktop\projects\(C#) GUIBank\GUIBank\obj\Debug\GUIBank.csprojResolveAssemblyReference.cache
+C:\Users\natel\Desktop\projects\(C#) GUIBank\GUIBank\obj\Debug\GUIBank.Form1.resources
+C:\Users\natel\Desktop\projects\(C#) GUIBank\GUIBank\obj\Debug\GUIBank.Properties.Resources.resources
+C:\Users\natel\Desktop\projects\(C#) GUIBank\GUIBank\obj\Debug\GUIBank.csproj.GenerateResource.Cache
+C:\Users\natel\Desktop\projects\(C#) GUIBank\GUIBank\obj\Debug\GUIBank.exe
+C:\Users\natel\Desktop\projects\(C#) GUIBank\GUIBank\obj\Debug\GUIBank.pdb
